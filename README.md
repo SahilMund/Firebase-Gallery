@@ -14,6 +14,7 @@ A Image vault using react and firebase and also deployed using firebase
 * What do you want to use as your public directory? build
 * Set up automatic builds and deploys with GitHub? No
 ------------------------------------------------------------
-4.  firebase deploy
+4.  npm run build
+5.  firebase deploy
 
 ```
